@@ -8,3 +8,6 @@ Replace folder/file paths for location of CSV files and sample audio files accor
 Due to time constraints, the training jupyter notebook was not able to complete its processing/training but the rest of the codes were submitted and expected to run with no issues. 
 
 For requirements.txt, these only apply to the codes that are not in the Jupyter Notebook. 
+
+For task 5b, the threshold can be further increased to make the difference between 'True' and 'False' for similarity. 
+The current threshold is 0.6 
