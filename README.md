@@ -5,4 +5,4 @@ For the codes on Jupyter Notebook, by running "nvidia-smi" in command prompt, fi
 
 Replace folder/file paths for location of CSV files and sample audio files accordingly. 
 
-Due to time constraints, the training jupyter notebook was not able to complete its processing/training. 
+Due to time constraints, the training jupyter notebook was not able to complete its processing/training but the rest of the codes were submitted and expected to run with no issues. 
